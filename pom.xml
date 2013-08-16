@@ -6,8 +6,8 @@
         <version>7</version>
     </parent>
     <scm>
-        <connection>https://github.com/Batirchik/branching_git.git</connection>
-        <developerConnection>https://github.com/Batirchik/branching_git.git</developerConnection>
+        <connection>scm:git:git://github.com/Batirchik/branching_git.git</connection>
+        <developerConnection>scm:git:https://Batirchik@github.com/Batirchik/branching_git.git</developerConnection>
         <url>https://github.com/Batirchik/branching_git</url>
     </scm>
     <modelVersion>4.0.0</modelVersion>
