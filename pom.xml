@@ -9,12 +9,12 @@
         <connection>scm:git:git://github.com/artipfw/branching_git.git</connection>
         <developerConnection>scm:git:https://artipfw@github.com/artipfw/branching_git.git</developerConnection>
         <url>https://github.com/artipfw/branching_git</url>
-      <tag>1.9.X</tag>
+      <tag>HEAD</tag>
   </scm>
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.java-websocket</groupId>
     <artifactId>Java-WebSocket</artifactId>
-    <version>1.9.0-SNAPSHOT</version>
+    <version>1.10.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Java WebSocket</name>
     <url>http://java-websocket.org/</url>
