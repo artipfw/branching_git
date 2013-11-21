@@ -9,7 +9,7 @@
         <connection>scm:git:git://github.com/artipfw/branching_git.git</connection>
         <developerConnection>scm:git:https://artipfw@github.com/artipfw/branching_git.git</developerConnection>
         <url>https://github.com/artipfw/branching_git</url>
-      <tag>HEAD</tag>
+      <tag>1.9.X</tag>
   </scm>
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.java-websocket</groupId>
